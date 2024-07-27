@@ -1,9 +1,6 @@
 <h2 align="center">Hi, I am Shreya, and I dream of making it big someday!</h2>
-<img align="right" height="200" src="[Animation - 1722091471060.gif](https://lottiefiles.com/free-animation/girl-working-on-computer-P8it6YD4ix)"/>
 
-<div align="left">
-    <p align="left">Hello! I'm a student at Rajshahi University of Engineering and Technology with a passion for programming. I love how programming provides endless opportunities for creativity and problem-solving. This GitHub account showcases the projects and experiments I've been working on. Explore my repositories to see what I've been up to!</p>
-</div>
+<p align="left">Hello! I'm a student at Rajshahi University of Engineering and Technology with a passion for programming. I love how programming provides endless opportunities for creativity and problem-solving. This GitHub account showcases the projects and experiments I've been working on. Explore my repositories to see what I've been up to!</p>
 
 
 ###
@@ -49,13 +46,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarafAnzumShreya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/SarafAnzumShreya/SarafAnzumShreya/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!--
 **SarafAnzumShreya/SarafAnzumShreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
