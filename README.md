@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I am Shreya, and I dream of making it big someday!</h2>
-<a align="right" height="200" src="[Animation - 1722091471060.gif](https://lottiefiles.com/free-animation/girl-working-on-computer-P8it6YD4ix)"><a/>
+<img align="right" height="200" src="[Animation - 1722091471060.gif](https://lottiefiles.com/free-animation/girl-working-on-computer-P8it6YD4ix)"/>
 
 <div align="left">
     <p align="left">Hello! I'm a student at Rajshahi University of Engineering and Technology with a passion for programming. I love how programming provides endless opportunities for creativity and problem-solving. This GitHub account showcases the projects and experiments I've been working on. Explore my repositories to see what I've been up to!</p>
