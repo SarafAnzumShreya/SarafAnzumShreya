@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I am Shreya, and I dream of making it big someday!</h2>
+<h2 align="center">Hi, I am Shreya and I dream of making it big someday!</h2>
 
 <p align="left">Hello! I'm a student at Rajshahi University of Engineering and Technology with a passion for programming. I love how programming provides endless opportunities for creativity and problem-solving. This GitHub account showcases the projects and experiments I've been working on. Explore my repositories to see what I've been up to!</p>
 
