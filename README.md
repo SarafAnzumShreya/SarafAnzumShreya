@@ -2,7 +2,10 @@
 
 <p align="left">Hello! I'm a student at Rajshahi University of Engineering and Technology with a passion for programming. I love how programming provides endless opportunities for creativity and problem-solving. This GitHub account showcases the projects and experiments I've been working on. Explore my repositories to see what I've been up to!</p>
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/SarafAnzumShreya/SarafAnzumShreya/main/Animation%20-%201722170399315%20(1).gif"  />
+<div align="center">
+  <img height="350" src="https://raw.githubusercontent.com/SarafAnzumShreya/SarafAnzumShreya/main/Animation%20-%201722170399315%20(1).gif"  />
+</div>
+
 
 <h2 align="center">I code with</h2>
 
