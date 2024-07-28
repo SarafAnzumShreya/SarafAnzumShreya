@@ -57,9 +57,10 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SarafAnzumShreya.SarafAnzumShreya&"  />
 
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SarafAnzumShreya.SarafAnzumShreya&"  />
-
+</div>
 ###
 
 <!--
