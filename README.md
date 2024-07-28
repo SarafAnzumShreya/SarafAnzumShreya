@@ -1,10 +1,10 @@
-<h2 align="center">Hi, I am Shreya and I dream of making it big someday!</h2>
+<h1 align="center">Hi, I am Shreya and I dream of making it big someday!</h1>
 
 <p align="left">Hello! I'm a student at Rajshahi University of Engineering and Technology with a passion for programming. I love how programming provides endless opportunities for creativity and problem-solving. This GitHub account showcases the projects and experiments I've been working on. Explore my repositories to see what I've been up to!</p>
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
-<div align="right">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -58,7 +58,7 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SarafAnzumShreya.SarafAnzumShreya&"  />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SarafAnzumShreya.SarafAnzumShreya&"  />
 
 ###
 
